@@ -1,6 +1,0 @@
-COLOQUE NESTA PASTA OS PRINTS REAIS DO SWAGGER.
-
-Use os nomes indicados em Documentacao/Relatorio_de_Testes_Swagger.md.
-O print deve mostrar, sempre que possível: rota, parâmetros/body, botão Execute, status HTTP e Response body.
-
-Não foram incluídos prints falsos: as evidências precisam ser obtidas executando a API conectada ao seu SQL Server Express.
